@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:1, tvg-logo="" group-title="Movies",FOX Action Movies
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+
+#EXTINF:1, tvg-logo="" group-title="Movies",CELESTIAL MOVIES
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:1, tvg-logo="" group-title="Movies",CINEMA WORLD
+http://45.126.83.51/uq2663/h/h04/01.m3u8
+
+#EXTINF:1, tvg-logo="" group-title="Movies",MNX MOVIE
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+
+#EXTINF:1, tvg-logo="" group-title="Movies",MOVIE NOW
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+
+#EXTINF:1, tvg-logo="" group-title="Movies",ROMEDY NOW
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+
+#EXTINF:1, tvg-logo="" group-title="Movies",SINEMA INDONESIA
+http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
+
+#EXTINF:1, tvg-logo="" group-title="Movies",HBO HITS
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2FEE87F52D657E1492AC735&profile=pass
+
+#EXTINF:1, tvg-logo="" group-title="Movies",FOX FAMILY MOVIES
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=FAA59AF9056556AD852BA91B14A11BC36F88FB30&profile=pass
+
+#EXTINF:1, tvg-logo="" group-title="Movies",NAT GEO
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
+
+#EXTINF:1, tvg-logo="" group-title="Movies",AFN
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=55F1D428F8430B8043855EE1A817CAD070D7E395&profile=pass
+
+#EXTINF:1, tvg-logo="" group-title="Movies",CN
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121AD74C428131F98E22DBB7&profile=pass
+
+#EXTINF:1, tvg-logo="" group-title="Movies",FOX ACTION MOVIES
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=356480E525DC0ADEA2A40DFD43C0F52D66394C2D&profile=pass
+
+#EXTINF:1, tvg-logo="" group-title="Movies",
+#EXTINF:1, tvg-logo="" group-title="Movies",
+#EXTINF:1, tvg-logo="" group-title="Movies",
+#EXTINF:1, tvg-logo="" group-title="Movies",
+#EXTINF:1, tvg-logo="" group-title="Movies",
+#EXTINF:1, tvg-logo="" group-title="Movies",
