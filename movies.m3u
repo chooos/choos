@@ -105,3 +105,142 @@ http://srb.00387.info/tc2/index.m3u8?token=test
  
 #EXTINF:-1 tvg-logo="" group-title="CINEMA",TOTAL CINEMA 3
 http://srb.00387.info/tc3/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",TV 1000 HD
+http://188.40.48.89:80/live/test02052020/test/4333.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",TV 1000 Action HD
+http://188.40.48.89:80/live/test02052020/test/4334.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",TV 1000 Русское кино HD
+http://188.40.48.89:80/live/test02052020/test/4335.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",ViP Premiere
+http://188.40.48.89:80/live/test02052020/test/4336.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",ViP Premiere
+http://188.40.48.89:80/live/test02052020/test/4336.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",ViP Megahit
+http://188.40.48.89:80/live/test02052020/test/4337.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",ViP Comedy
+http://188.40.48.89:80/live/test02052020/test/4338.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",ViP Serial
+http://188.40.48.89:80/live/test02052020/test/4378.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",FOX HD
+http://188.40.48.89:80/live/test02052020/test/4379.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Fox Life HD
+http://188.40.48.89:80/live/test02052020/test/4380.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Sony Channel HD
+http://188.40.48.89:80/live/test02052020/test/4381.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Sony Channel
+http://188.40.48.89:80/live/test02052020/test/4382.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Sony Sci-Fi
+http://188.40.48.89:80/live/test02052020/test/4383.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Sony Turbo
+http://188.40.48.89:80/live/test02052020/test/4384.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Discovery Channel
+http://188.40.48.89:80/live/test02052020/test/4409.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Discovery Channel HD
+http://188.40.48.89:80/live/test02052020/test/4410.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Investigation Discovery
+http://188.40.48.89:80/live/test02052020/test/4411.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",ID Investigation Discovery HD
+http://188.40.48.89:80/live/test02052020/test/4412.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Discovery Science HD
+http://188.40.48.89:80/live/test02052020/test/4413.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",History HD
+http://188.40.48.89:80/live/test02052020/test/4415.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",H2 HD
+http://188.40.48.89:80/live/test02052020/test/4416.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Viasat History HD
+http://188.40.48.89:80/live/test02052020/test/4418.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Viasat Nature HD/History HD
+http://188.40.48.89:80/live/test02052020/test/4419.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",National Geographic HD
+http://188.40.48.89:80/live/test02052020/test/4420.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",National Geographic
+http://188.40.48.89:80/live/test02052020/test/4421.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Nat Geo Wild HD
+http://188.40.48.89:80/live/test02052020/test/4422.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Nat Geo Wild
+http://188.40.48.89:80/live/test02052020/test/4423.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Travel Channel
+http://188.40.48.89:80/live/test02052020/test/4424.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Travel+Adventure HD
+http://188.40.48.89:80/live/test02052020/test/4425.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Viasat Nature HD
+http://188.40.48.89:80/live/test02052020/test/4426.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Love Nature 4K
+http://188.40.48.89:80/live/test02052020/test/4427.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Animal Planet HD
+http://188.40.48.89:80/live/test02052020/test/4428.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Animal Planet
+http://188.40.48.89:80/live/test02052020/test/4429.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Viasat Explore HD
+http://188.40.48.89:80/live/test02052020/test/4430.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",MTV
+http://188.40.48.89:80/live/test02052020/test/4590.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",MTV HD
+http://188.40.48.89:80/live/test02052020/test/4591.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",MTV Dance
+http://188.40.48.89:80/live/test02052020/test/4598.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",MTV Hits
+http://188.40.48.89:80/live/test02052020/test/4599.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",MTV Rocks
+http://188.40.48.89:80/live/test02052020/test/4600.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Bridge TV Русский хит
+http://188.40.48.89:80/live/test02052020/test/4603.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Bridge TV Hits
+http://188.40.48.89:80/live/test02052020/test/4605.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Bridge TV Classic
+http://188.40.48.89:80/live/test02052020/test/4606.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Bridge TV Deluxe
+http://188.40.48.89:80/live/test02052020/test/4607.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",HD Music Television
+http://188.40.48.89:80/live/test02052020/test/4608.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",MTV Live HD
+http://188.40.48.89:80/live/test02052020/test/4611.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",playboyTv
+http://138.201.124.162:8080/andreadriana/xhLvhqtr8f/116360
+ 
