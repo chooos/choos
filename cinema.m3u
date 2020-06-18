@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch1
+http://185.59.220.134/c1/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch2
+http://185.59.220.134/c2/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch3
+http://185.59.220.134/c3/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch4
+http://185.59.220.134/c4/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch5
+http://185.59.220.134/c5/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch6
+http://185.59.220.134/c6/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch17
+http://185.59.220.134/c7/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch8
+http://185.59.220.134/c8/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",SKY CINEMA
+http://185.59.220.134/GER:SKYCINEMAUHD/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",SKY CINEMA ACTION
+http://185.59.220.134/GER:SKYCINEMAACTIONUHD/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",SKY CINEMA HITS
+http://185.59.220.134/GER:SKYCINEMAHITSUHD/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",FOX MOVIES
+http://185.59.220.134/HR:FOXMOVIES/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",PINK ACTION
+http://185 59.220.134/PINKACTION/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",PINK FILM
+http://185.59.220.134/PINKFILM/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",PINK MOVIES
+http://185.59.220.134/PINKMOVIES/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",TOTAL CINEMA 1
+http://srb.00387.info/tc1/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",TOTAL CINEMA 2
+http://srb.00387.info/tc2/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",TOTAL CINEMA 3
+http://srb.00387.info/tc3/index.m3u8?token=test
