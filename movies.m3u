@@ -39,9 +39,69 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121
 #EXTINF:1, tvg-logo="" group-title="Movies",FOX ACTION MOVIES
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=356480E525DC0ADEA2A40DFD43C0F52D66394C2D&profile=pass
 
-#EXTINF:1, tvg-logo="" group-title="Movies",
-#EXTINF:1, tvg-logo="" group-title="Movies",
-#EXTINF:1, tvg-logo="" group-title="Movies",
-#EXTINF:1, tvg-logo="" group-title="Movies",
-#EXTINF:1, tvg-logo="" group-title="Movies",
-#EXTINF:1, tvg-logo="" group-title="Movies",
+#EXTINF:1, tvg-logo="" group-title="Movies",THRILL
+http://210.210.155.35/session/65d0e75a-a9dd-11ea-a86e-b6a083afd8ae/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:1, tvg-logo="" group-title="Movies",CELESTIAL MOVIES
+http://210.210.155.35/session/89eaca8e-a9dd-11ea-adda-92f8976354e1/qwr9ew/s/s33/02.m3u8
+
+#EXTINF:1, tvg-logo="" group-title="Movies",Zee Bioskop
+http://210.210.155.35/session/aab38792-a9dd-11ea-9988-984d8e7884a5/qwr9ew/s/s32/02.m3u8
+
+#EXTINF:1, tvg-logo="" group-title="Movies",CGTN DOCUMENTARY
+http://210.210.155.35/session/ece8f884-a9df-11ea-9eb9-bb13a1f2bbf2/qwr9ew/s/s20/02.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch1
+http://185.59.220.134/c1/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch2
+http://185.59.220.134/c2/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch3
+http://185.59.220.134/c3/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch4
+http://185.59.220.134/c4/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch5
+http://185.59.220.134/c5/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch6
+http://185.59.220.134/c6/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch17
+http://185.59.220.134/c7/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",Ch8
+http://185.59.220.134/c8/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",SKY CINEMA
+http://185.59.220.134/GER:SKYCINEMAUHD/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",SKY CINEMA ACTION
+http://185.59.220.134/GER:SKYCINEMAACTIONUHD/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",SKY CINEMA HITS
+http://185.59.220.134/GER:SKYCINEMAHITSUHD/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",FOX MOVIES
+http://185.59.220.134/HR:FOXMOVIES/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",PINK ACTION
+http://185 59.220.134/PINKACTION/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",PINK FILM
+http://185.59.220.134/PINKFILM/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",PINK MOVIES
+http://185.59.220.134/PINKMOVIES/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",TOTAL CINEMA 1
+http://srb.00387.info/tc1/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",TOTAL CINEMA 2
+http://srb.00387.info/tc2/index.m3u8?token=test
+ 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA",TOTAL CINEMA 3
+http://srb.00387.info/tc3/index.m3u8?token=test
