@@ -119,7 +119,7 @@ http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Film",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 
-#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="Film dan Permainan",Blue Ant Extreme
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="Film",Blue Ant Extreme
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="Film",Citra Drama
@@ -128,5 +128,5 @@ https://dl.dropbox.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=1
 #EXTINF:0 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/MEIUq0A9l5R7QgR1ZvxQ6xhEfpU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="Film",Citra Entertainment
 https://dl.dropbox.com/s/ycu2ro7yrxph2q7/CitraEnt.m3u8?dl=1
 
-#EXTINF:0 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Gaya Hidup",TV5 Monde Asie
+#EXTINF:0 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Film",TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3u8
