@@ -60,7 +60,7 @@ https://chostv.mobie.in/choos/iptv/jogjatvtv.m3u8
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL",RCTI
 https://chostv.mobie.in/choos/iptv/rcti.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="NASIONAL",GLOBAL TV
+#EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL",GLOBAL TV
 https://chostv.mobie.in/choos/iptv/gtv.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL",MNCTV
