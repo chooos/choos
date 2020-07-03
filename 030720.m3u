@@ -1,34 +1,34 @@
 #EXTM3U url-tvg="http://iptvhit.live/choos/epg/Encos/Encos"
  
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_b384000_sleng.m3u8
+http://chostv.mobie.in/files/iptv/transtv.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL",Trans 7
-http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+http://chostv.mobie.in/files/iptv/trans7.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL",NET TV
-http://210.210.155.35/session/58965334-a9df-11ea-bff1-aa4abc0caf98/qwr9ew/s/s08/01.m3u8
+http://chostv.mobie.in/files/iptv/net.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL",ANTV
-http://210.210.155.35/session/6913c6d8-a9df-11ea-8ede-98c689d5e942/qwr9ew/s/s07/01.m3u8
+http://chostv.mobie.in/files/iptv/antv.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL",SCTV
-https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
+http://chostv.mobie.in/files/iptv/sctv.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL",Indosiar
-http://210.210.155.35/session/a65458b4-a9df-11ea-a7ae-9e32b3ee9ba0/qwr9ew/s/s04/01.m3u8
+http://chostv.mobie.in/files/iptv/indosiar.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL",RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+http://chostv.mobie.in/files/iptv/rcti.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL",GLOBALTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+http://chostv.mobie.in/files/iptv/gtv.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL,MNC
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+http://chostv.mobie.in/files/iptv/mnctv.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL,INEWS HD
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+http://chostv.mobie.in/files/iptv/inews.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123" group-title="NASIONAL",TV One
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
