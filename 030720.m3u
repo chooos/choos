@@ -220,80 +220,53 @@ https://95-213-224-179.livesports24.online/eurosport1ru.m3u8
 #EXTINF:1 tvg-logo="" group-title="SPORTS",Eurosport 2
 https://95-213-224-179.livesports24.online/ruseurosport2.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",Bein Sports 1
-https://iptvhit.live/choos/Encos/Encos/5051
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",PTV SPOARTS
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",Bein Sports 2
-https://iptvhit.live/choos/Encos/Encos/5053
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena Sport 1 SR
+http://srb.00387.info/ArenaSport1SR/index.m3u8?token=test
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",Bein Sports 3
-https://iptvhit.live/choos/Encos/Encos/5055
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena Sport 2 SR
+http://srb.00387.info/ArenaSport2SR/index.m3u8?token=test
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",SS 1
-https://iptvhit.live/choos/Encos/Encos/900
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena Sport 3 SR
+http://srb.00387.info/ArenaSport3SR/index.m3u8?token=test
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",SS 2
-https://iptvhit.live/choos/Encos/Encos/901
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena Sport 4 SR
+http://srb.00387.info/ArenaSport4SR/index.m3u8?token=test
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",SS 3
-https://iptvhit.live/choos/Encos/Encos/902
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena Sport 5 SR
+http://srb.00387.info/ArenaSport5SR/index.m3u8?token=test
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",SS 4
-https://iptvhit.live/choos/Encos/Encos/903
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SKY SPORT 2
+http://srb.00387.info/GER:SKYSPORT2UHD/index.m3u8?token=test
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",SS 5
-https://iptvhit.live/choos/Encos/Encos/904
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",EUROSPORT1
+http://srb.00387.info/SR:EuroSport1HD/index.m3u8?token=test
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",SS 6
-https://iptvhit.live/choos/Encos/Encos/905
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",EUROSPORT2
+http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",SS 7
-https://iptvhit.live/choos/Encos/Encos/906
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",varzesh 1
+http://51.158.66.44/hls/stream.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",SS 8
-https://iptvhit.live/choos/Encos/Encos/907
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Varzesh 2
+http://51.158.176.190/hls/stream.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",SS 9
-https://iptvhit.live/choos/Encos/Encos/908
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",varzesh 3
+http://51.15.236.137/hls/stream.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",SS 10
-https://iptvhit.live/choos/Encos/Encos/909
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",varzesh 4
+http://163.172.138.186/hls/stream.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",SS 11
-https://iptvhit.live/choos/Encos/Encos/910
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BEINSPORTS XTRA
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",SS 12
-https://iptvhit.live/choos/Encos/Encos/911
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",PREMIER 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",ASSP1
-https://iptvhit.live/choos/Encos/Encos/1001
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",PREMIER 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="SPORTS",ASSP2
-https://iptvhit.live/choos/Encos/Encos/1002
-
-#EXTINF:1 tvg-logo="" group-title="SPORTS",ASSP3
-https://iptvhit.live/choos/Encos/Encos/1003
-
-#EXTINF:1 tvg-logo="" group-title="SPORTS",ASSP4
-https://iptvhit.live/choos/Encos/Encos/1004
-
-#EXTINF:1 tvg-logo="" group-title="SPORTS", A ARENA
-https://iptvhit.live/choos/Encos/Encos/1005
-
-#EXTINF:1 tvg-logo="" group-title="SPORTS",EUROSPORTS
-https://iptvhit.live/choos/Encos/Encos/1006
-
-#EXTINF:1 tvg-logo="" group-title="SPORTS",Bein Sports
-https://iptvhit.live/choos/Encos/Encos/1007
-
-#EXTINF:1 tvg-logo="" group-title="SPORTS",A Cricket
-https://iptvhit.live/choos/Encos/Encos/1008
-
-#EXTINF:1 tvg-logo="" group-title="SPORTS",Golf
-https://iptvhit.live/choos/Encos/Encos/1009
-
-#EXTINF:1 tvg-logo="" group-title="SPORTS",STANTA SPORTS
-https://iptvhit.live/choos/Encos/Encos/1010
-
-#EXTINF:1 tvg-logo="" group-title="SPORTS",WWE
-https://iptvhit.live/choos/Encos/Encos/1011
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",PREMIER 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
