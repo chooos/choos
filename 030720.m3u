@@ -222,23 +222,20 @@ https://chostv.mobie.in/choos/sports/euro2.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",PTV SPOARTS
 https://chostv.mobie.in/choos/sports/ptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Arena Sport 1 SR
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Fox Sports AU
 https://chostv.mobie.in/choos/sports/arena1.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Arena Sport 2 SR
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Esport
 https://chostv.mobie.in/choos/sports/arena2.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Arena Sport 3 SR
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",ATG
 https://chostv.mobie.in/choos/sports/arena3.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Arena Sport 4 SR
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Racing.com
 https://chostv.mobie.in/choos/sports/arena4.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Arena Sport 5 SR
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Trace Sport
 https://chostv.mobie.in/choos/sports/arena5.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",SKY SPORT 2
-https://chostv.mobie.in/choos/sports/sky2.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",varzesh 1
 https://chostv.mobie.in/choos/sports/varzes1.m3u8
