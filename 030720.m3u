@@ -249,12 +249,21 @@ https://chostv.mobie.in/choos/sports/varzes3.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",varzesh 4
 https://chostv.mobie.in/choos/sports/varzes3.m3u8
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Champion 1
+https://dl.dropbox.com/s/h2uprrpnt8cqywa/cham1.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Champion 2
+https://dl.dropbox.com/s/cxabkgrslfg30mp/cham2.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Champion 3
+https://dl.dropbox.com/s/bn6u6d4ris2tjvl/cham3.m3u8?dl=0
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123 group-title="SPORTS",BEINSPORTS XTRA
 https://chostv.mobie.in/choos/sports/beinxtra.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",PREMIER 1
-https://chostv.mobie.in/choos/sports1/epl3.m3u8
+https://chostv.mobie.in/choos/sports1/epl1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",PREMIER 2
 https://chostv.mobie.in/choos/sports1/epl2.m3u8
