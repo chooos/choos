@@ -304,5 +304,26 @@ https://chostv.mobie.in/choos/sports1/skynet5.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Skynet Sport 6
 https://chostv.mobie.in/choos/sports1/skynet6.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",EPT Sport
-https://iptvhit.live/choos/Chos111/Chos111/32158
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Fiji TV
+https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",E Sports
+http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Munchen TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",RTM+
+http://www.rtmplus.cz/live/1-playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Nile Sport
+http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test&checkedby:iptvcat.com
