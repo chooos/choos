@@ -1,5 +1,4 @@
-
-#EXTM3U
+#EXTM3U  tvg-url"https://iptvhit.live/chosthea/epg/Encos/Encos"
 #EXTINF:-1,3HD
 http://103.148.44.22:8876/play/a0cg
 #EXTINF:-1,@INDI-Bioskop Indonesia
