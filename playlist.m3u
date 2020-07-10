@@ -133,7 +133,7 @@ http://58.26.3.54/PLTV/88888888/224/3221226228/01.m3u8
 #EXTINF:0 tvg-logo="https://choslogo.mobie.in/logo/tv2.png" group-title="Malaysia",TV2
 http://58.26.3.55/PLTV/88888888/224/3221226229/01.m3u8
 
-#EXTINF:0 tvg-logo="https://choslogo.mobie.in/logo/tv4.png" group-title="Malaysia",TV3
+#EXTINF:0 tvg-logo="https://choslogo.mobie.in/logo/tv3.png" group-title="Malaysia",TV3
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXoe4om3xMNCyi5biPrAq1Y)/dm/3/x6qp375/d/live-3.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Malaysia",OKEY
@@ -221,22 +221,22 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",E Sports
-http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8?checkedby:iptvcat.com
+http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8
 
 #EXTINF:-1 tvg-logo="https://choslogo.mobie.in/logo/atg.png" group-title="SPORTS",ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby:iptvcat.com
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",CDO
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8?checkedby:iptvcat.com
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Munchen TV
-https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",RTM+
-http://www.rtmplus.cz/live/1-playlist.m3u8?checkedby:iptvcat.com
+http://www.rtmplus.cz/live/1-playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Nile Sport
-http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test&checkedby:iptvcat.com
+http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
