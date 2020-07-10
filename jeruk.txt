@@ -202,16 +202,16 @@ https://chostv.mobie.in/choos/sports/qyt3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",PTV SPOARTS
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",varzesh 1
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",varzesh 1
 http://51.158.66.44/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Varzesh 2
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Varzesh 2
 http://51.158.176.190/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",varzesh 3
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",varzesh 3
 http://51.15.236.137/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",varzesh 4
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",varzesh 4
 http://163.172.138.186/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://choslogo.mobie.in/logo/beinxtra.png group-title="SPORTS",BEINSPORTS XTRA
