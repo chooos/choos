@@ -226,10 +226,10 @@ http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8
 #EXTINF:-1 tvg-logo="https://choslogo.mobie.in/logo/atg.png" group-title="SPORTS",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Fox Sports News
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",CDO
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Munchen TV
